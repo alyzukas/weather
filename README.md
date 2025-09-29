@@ -1,6 +1,9 @@
 # Seattle Weather Project - DATA 5100
+Project 1 by Alyssa Zukas
 
-> A brief description of what the project does and its purpose.
+Comparing the precipitation rate of Seattle to another city in the US.
+    In classcomparison:St Luis
+    Personal project comparison: Bentonville, AR
 
 ---
 
@@ -48,7 +51,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Your Name - [@alyzukas](https://github.com/alyzukas)
 
 ---
 
