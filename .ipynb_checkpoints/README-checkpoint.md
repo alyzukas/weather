@@ -1,4 +1,4 @@
-# Seattle Weather Project - DATA 5100
+# Project Title (This is a template README.md file that you can adapt to your project)
 
 > A brief description of what the project does and its purpose.
 
@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-We will use this project to compare the preciption levels of Seattle vs another city.
+Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
 - **Objective:** Clearly state the main goal of the project.
 - **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
