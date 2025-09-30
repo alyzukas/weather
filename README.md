@@ -48,8 +48,7 @@ We will use this project to compare the preciption levels of Seattle vs another 
   
 - Seattle: <class 'pandas.core.frame.DataFrame'> RangeIndex: 1658 entries, 0 to 1657 Data columns (total 10 columns): dtypes: float64(7), object(3) memory usage: 129.7+ KB
   
-- St Louis: <class 'pandas.core.frame.DataFrame'> RangeIndex: 54574 entries, 0 to 54573 Data columns (total 8 columns): dtypes: float64(5), object(3)
-- memory usage: 3.3+ MB
+- St Louis: <class 'pandas.core.frame.DataFrame'> RangeIndex: 54574 entries, 0 to 54573 Data columns (total 8 columns): dtypes: float64(5), object(3) memory usage: 3.3+ MB
 
 
 - **License:** N/A
@@ -82,6 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used
-- Tutorials or papers referenced
-- Inspiration or collaborators
+- Tools/libraries used: pandas, NumPy, matplotlib.pyplot
+- Tutorials or papers referenced: Class 1 modules
+- Inspiration or collaborators: Dr Fischer
