@@ -41,42 +41,23 @@ We will use this project to compare the preciption levels of Seattle vs another 
 - St Louis:
         http://localhost:8888/doc/tree/data5100/weather/data/stl_rain.csv?
         https://github.com/alyzukas/weather/blob/main/data/stl_rain.csv
-      
-- **Description:** 
-Bentonville:
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 1824 entries, 0 to 1823
-Data columns (total 4 columns):
- #   Column   Non-Null Count  Dtype  
----  ------   --------------  -----  
- 0   STATION  1824 non-null   object 
- 1   NAME     1824 non-null   object 
- 2   DATE     1824 non-null   object 
- 3   PRCP     1824 non-null   float64
-dtypes: float64(1), object(3)
-memory usage: 57.1+ KB
 
-Seattle:
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 1658 entries, 0 to 1657
-Data columns (total 10 columns):
- #   Column   Non-Null Count  Dtype  
----  ------   --------------  -----  
- 0   STATION  1658 non-null   object 
- 1   NAME     1658 non-null   object 
- 2   DATE     1658 non-null   object 
- 3   DAPR     23 non-null     float64
- 4   MDPR     23 non-null     float64
- 5   PRCP     1636 non-null   float64
- 6   SNOW     353 non-null    float64
- 7   SNWD     66 non-null     float64
- 8   WESD     15 non-null     float64
- 9   WESF     28 non-null     float64
-dtypes: float64(7), object(3)
-memory usage: 129.7+ K
-
-
-St Louis:
+## Description    
+- **Description:**
+- Bentonville:
+- <class 'pandas.core.frame.DataFrame'>
+- RangeIndex: 1824 entries, 0 to 1823
+- Data columns (total 4 columns):
+- dtypes: float64(1), object(3)
+- memory usage: 57.1+ KB
+  
+- Seattle:
+- <class 'pandas.core.frame.DataFrame'>
+- RangeIndex: 1658 entries, 0 to 1657
+- Data columns (total 10 columns):
+- dtypes: float64(7), object(3)
+- memory usage: 129.7+ KB
+- St Louis:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 54574 entries, 0 to 54573
 Data columns (total 8 columns):
@@ -100,13 +81,13 @@ memory usage: 3.3+ MB
 
 ## Analysis
 
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+Jupyter Lab and Notebook
 
 ---
 
 ## Results
 
-Include a short discussion of the findings and what they imply.
+Walking through the Weather_Template, we were able to import, analyze, join, and tidy data sets for Bentonville, Seattle and St Louis
 
 ---
 
