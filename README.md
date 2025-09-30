@@ -44,35 +44,12 @@ We will use this project to compare the preciption levels of Seattle vs another 
 
 ## Description    
 - **Description:**
-- Bentonville:
-- <class 'pandas.core.frame.DataFrame'>
-- RangeIndex: 1824 entries, 0 to 1823
-- Data columns (total 4 columns):
-- dtypes: float64(1), object(3)
-- memory usage: 57.1+ KB
+- Bentonville: <class 'pandas.core.frame.DataFrame'>, RangeIndex: 1824 entries, 0 to 1823, Data columns (total 4 columns):, dtypes: float64(1), object(3), memory usage: 57.1+ KB
   
-- Seattle:
-- <class 'pandas.core.frame.DataFrame'>
-- RangeIndex: 1658 entries, 0 to 1657
-- Data columns (total 10 columns):
-- dtypes: float64(7), object(3)
-- memory usage: 129.7+ KB
-- St Louis:
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 54574 entries, 0 to 54573
-Data columns (total 8 columns):
- #   Column   Non-Null Count  Dtype  
----  ------   --------------  -----  
- 0   STATION  54574 non-null  object 
- 1   NAME     54574 non-null  object 
- 2   DATE     54574 non-null  object 
- 3   DAPR     1166 non-null   float64
- 4   MDPR     1163 non-null   float64
- 5   PRCP     53143 non-null  float64
- 6   SNOW     33167 non-null  float64
- 7   SNWD     12835 non-null  float64
-dtypes: float64(5), object(3)
-memory usage: 3.3+ MB
+- Seattle: <class 'pandas.core.frame.DataFrame'> RangeIndex: 1658 entries, 0 to 1657 Data columns (total 10 columns): dtypes: float64(7), object(3) memory usage: 129.7+ KB
+  
+- St Louis: <class 'pandas.core.frame.DataFrame'> RangeIndex: 54574 entries, 0 to 54573 Data columns (total 8 columns): dtypes: float64(5), object(3)
+- memory usage: 3.3+ MB
 
 
 - **License:** N/A
