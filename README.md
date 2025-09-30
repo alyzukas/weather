@@ -2,7 +2,7 @@
 Project 1 by Alyssa Zukas
 
 Comparing the precipitation rate of Seattle to another city in the US.
-    In classcomparison:St Luis
+    In class comparison:St Luis
     Personal project comparison: Bentonville, AR
 
 ---
@@ -31,9 +31,19 @@ We will use this project to compare the preciption levels of Seattle vs another 
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:**
+- Bentonville:
+        http://localhost:8888/doc/tree/data5100/weather/data/bentoville_weather.csv?
+        https://github.com/alyzukas/weather/blob/main/data/bentoville_weather.csv
+- Seattle:
+        http://localhost:8888/doc/tree/data5100/weather/data/seattle_rain.csv?
+        https://github.com/alyzukas/weather/blob/main/data/seattle_rain.csv
+- St Louis:
+        http://localhost:8888/doc/tree/data5100/weather/data/stl_rain.csv?
+        https://github.com/alyzukas/weather/blob/main/data/stl_rain.csv
+      
 - **Description:** Brief overview of the dataset features, size, and format
-- **License:** (if applicable)
+- **License:** N/A
 
 ---
 
